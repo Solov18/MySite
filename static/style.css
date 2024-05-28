@@ -1,0 +1,58 @@
+a {
+ text-decoration: none;
+} 
+
+.nav_link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+.H1 {
+    color: #222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.paragraph{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    color: #7D7987;
+
+}
+.subject{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height:80px ;
+}
+.abaut_foto{
+    border-radius: 10px;
+}
+.pole{
+    width: 210px;
+    height: 30px;
+    outline: none;
+    border: 2px solid #ccc ;
+    border-radius:15px ;
+    font-size: 14px;
+    line-height: 30px;
+    font-family: sans-serif;
+
+}
+.button{
+    width: 105px;
+    height: 30px;
+    font-size: 14px;
+    border: 2px solid #ccc ;
+    border-radius:10px ;
+
+}
+.body{
+    font-family: sans-serif;
+}
+
+
